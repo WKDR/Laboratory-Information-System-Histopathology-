@@ -1,1 +1,1 @@
-# Laboratory-Information-System-Histopathology-
+# Laboratory-Information-System-Histopathology
